@@ -1,0 +1,2 @@
+A simple Facebook App for users to play a game of high card draw with a friend.
+This is intended for demonstration purpose only as it is based on an outdated version of Facebook API. Use at your own risk.
